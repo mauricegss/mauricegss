@@ -3,7 +3,7 @@
 # 👋 Olá, eu sou o Maurice!
 
 🎓 Estudante de **Ciência da Computação** na **UTFPR**  
-💻 Foco em **Desenvolvimento de Software**  
+💻 Foco em **Desenvolvimento de Software e Full Stack**  
 🧠 Explorando **Machine Learning** e **Data Science**
 
 <a href="https://linkedin.com/in/mauricegss"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:mauricegma@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
